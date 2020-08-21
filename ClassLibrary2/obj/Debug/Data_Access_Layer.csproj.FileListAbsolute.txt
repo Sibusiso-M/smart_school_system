@@ -1,0 +1,23 @@
+C:\Users\Sbu\Documents\Belgium Campus\Third Year 2019\Software Engineering 381\14 May\frmProducts\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\Sbu\Documents\Belgium Campus\Third Year 2019\Software Engineering 381\14 May\frmProducts\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\Sbu\Documents\Belgium Campus\Third Year 2019\Software Engineering 381\14 May\frmProducts\ClassLibrary2\obj\Debug\Data_Access_Layer.csproj.CoreCompileInputs.cache
+C:\Users\Sbu\Documents\Belgium Campus\Third Year 2019\Software Engineering 381\14 May\frmProducts\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\Sbu\Documents\Belgium Campus\Third Year 2019\Software Engineering 381\14 May\frmProducts\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
+C:\Users\Sbu\Documents\Belgium Campus\Third Year 2019\Software Engineering 381\14 May\frmProducts\ClassLibrary2\obj\Debug\Data_Access_Layer.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\Backup3 Basic Product Insert and View-20190520T113541Z-001\Backup3 Basic Product Insert and View\frmProducts\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\Student\Desktop\Backup3 Basic Product Insert and View-20190520T113541Z-001\Backup3 Basic Product Insert and View\frmProducts\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\Student\Desktop\Backup3 Basic Product Insert and View-20190520T113541Z-001\Backup3 Basic Product Insert and View\frmProducts\ClassLibrary2\obj\Debug\Data_Access_Layer.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\Backup3 Basic Product Insert and View-20190520T113541Z-001\Backup3 Basic Product Insert and View\frmProducts\ClassLibrary2\obj\Debug\Data_Access_Layer.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Backup3 Basic Product Insert and View-20190520T113541Z-001\Backup3 Basic Product Insert and View\frmProducts\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\Student\Desktop\Backup3 Basic Product Insert and View-20190520T113541Z-001\Backup3 Basic Product Insert and View\frmProducts\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
+C:\Users\Sbu\Documents\Belgium Campus\Third Year 2019\Software Engineering 381\20 May\Backup 4 Basic Product Insert and View And Delete\frmProducts\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\Sbu\Documents\Belgium Campus\Third Year 2019\Software Engineering 381\20 May\Backup 4 Basic Product Insert and View And Delete\frmProducts\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\Sbu\Documents\Belgium Campus\Third Year 2019\Software Engineering 381\20 May\Backup 4 Basic Product Insert and View And Delete\frmProducts\ClassLibrary2\obj\Debug\Data_Access_Layer.csprojAssemblyReference.cache
+C:\Users\Sbu\Documents\Belgium Campus\Third Year 2019\Software Engineering 381\20 May\Backup 4 Basic Product Insert and View And Delete\frmProducts\ClassLibrary2\obj\Debug\Data_Access_Layer.csproj.CoreCompileInputs.cache
+C:\Users\Sbu\Documents\Belgium Campus\Third Year 2019\Software Engineering 381\20 May\Backup 4 Basic Product Insert and View And Delete\frmProducts\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\Sbu\Documents\Belgium Campus\Third Year 2019\Software Engineering 381\20 May\Backup 4 Basic Product Insert and View And Delete\frmProducts\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
+C:\Users\CNA MENLYN\Documents\Sibusiso Mdlovu\SEN 381\Backup 4.1 Basic Product Insert and View And Delete\21 May\frmProducts\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\CNA MENLYN\Documents\Sibusiso Mdlovu\SEN 381\Backup 4.1 Basic Product Insert and View And Delete\21 May\frmProducts\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\CNA MENLYN\Documents\Sibusiso Mdlovu\SEN 381\Backup 4.1 Basic Product Insert and View And Delete\21 May\frmProducts\ClassLibrary2\obj\Debug\Data_Access_Layer.csprojResolveAssemblyReference.cache
+C:\Users\CNA MENLYN\Documents\Sibusiso Mdlovu\SEN 381\Backup 4.1 Basic Product Insert and View And Delete\21 May\frmProducts\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\CNA MENLYN\Documents\Sibusiso Mdlovu\SEN 381\Backup 4.1 Basic Product Insert and View And Delete\21 May\frmProducts\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
